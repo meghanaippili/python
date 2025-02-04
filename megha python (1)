@@ -1,0 +1,228 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "d5af5be3-7354-41d5-9be4-8d9feaa9e6be",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"hello world\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "94d1ff37-8aeb-495b-bbb3-bdd0897d2064",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "welcome hyderabad\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (\"welcome hyderabad\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "7767c79f-5180-4174-a33e-c8755937b5c5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "9\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=5\n",
+    "b=4\n",
+    "c=a+b\n",
+    "print (c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "9aa6da25-f444-4bb4-ac34-0f60ed6fbbe3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "65\n"
+     ]
+    }
+   ],
+   "source": [
+    "x=23\n",
+    "y=42\n",
+    "z=x+y\n",
+    "print(z)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "8cb41658-3015-4c38-892d-684d42f1f608",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "78"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x=y=z=78\n",
+    "y"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "be667f80-4bf6-403a-859d-419ec0b330c9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "my birthday\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (\"my birthday\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "8c029379-c27f-4165-a897-9c68d8fff789",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "199\n"
+     ]
+    }
+   ],
+   "source": [
+    "m=98\n",
+    "n=45\n",
+    "o=56\n",
+    "p=m+n+o\n",
+    "print(p)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "1b7ea215-ae43-4a7a-b477-a8e350a5c73a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "go green \n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"go green \")"
+   ]
+  },
+  {
+   "cell_type": "raw",
+   "id": "0181c782-4a82-424b-9d57-2c46af910247",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "id": "ec9b63e2-289b-442f-80a4-03117d0825bd",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "python is a high level programming language \n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"python is a high level programming language \")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fd481d64-fadb-4205-a285-0b9cdda3d81a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1bb3aa71-923d-49a8-bd73-6e4640d979b9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=100\n",
+    "b=50\n",
+    "c=a-b\n",
+    "pri"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
