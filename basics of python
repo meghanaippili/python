@@ -1,0 +1,181 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6f35864f-fda4-455e-98eb-e40880c9ad5b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "WHAT IS PYTHON ?\n",
+    "#It is High level programming language\n",
+    "it can also understand by humanbeings."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b87cdd0d-2cf3-4dda-9918-9fae89894906",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "WHY IS PYTHON ?\n",
+    "It is easy understand\n",
+    "it is easy to connect with database"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "91397503-d595-41a6-b7af-b21fdade5e69",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "058201c5-dbab-4324-82b3-1a1f387fffcc",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "python was developed by \"GUIDO VAN ROSSUM\" In the year 20 feb 1991\n",
+    "java was developed by \"JAMES GOSLING\" In the year 1995\n",
+    "C Language was developed by \"DENNIS RITCHIE\" In the year 1972"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c8910a32-429a-4424-b53c-92f1c8244a96",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c9f6c668-7b98-4b8c-b928-e80d52d00234",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "PYTHON APPLICATIONS ARE USED IN ?\n",
+    "\n",
+    "_ Web development\n",
+    "_Data science\n",
+    "_Machine learning\n",
+    "_Scripting and automation\n",
+    "_Game development\n",
+    "_Desktop GUI development\n",
+    "_Education\n",
+    "_Scientific computing\n",
+    "_Software development\n",
+    "_Network programming"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7742baf6-ef4a-4a7d-805f-1037141615fd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "99d153a5-4800-4f8f-9ac9-c6acfdbf276f",
+   "metadata": {},
+   "source": [
+    "35 keywords used in python \n",
+    "\n",
+    "CONTROL FLOW\n",
+    "if\n",
+    "elif\n",
+    "else\n",
+    "for\n",
+    "while\n",
+    "break\n",
+    "continue\n",
+    "pass\n",
+    "return\n",
+    "\n",
+    "DATA TYPES\n",
+    "true\n",
+    "false\n",
+    "none\n",
+    "\n",
+    "OPERATORS\n",
+    "and\n",
+    "or\n",
+    "not\n",
+    "in\n",
+    "is\n",
+    "\n",
+    "FUNCTION AND CLASSES\n",
+    "\n",
+    "def\n",
+    "class\n",
+    "lambda\n",
+    "with\n",
+    "as\n",
+    "\n",
+    "MODULE AND PACKAGES\n",
+    "import\n",
+    "from\n",
+    "\n",
+    "\n",
+    "EXCEPTION HANDLING\n",
+    "try\n",
+    "except\n",
+    "finally\n",
+    "raise\n",
+    "\n",
+    "\n",
+    "ASYNCHRONOUS PROGRAMMING\n",
+    "async \n",
+    "await\n",
+    "\n",
+    "\n",
+    "OTHER KEY WORDS\n",
+    "del\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c7b451f4-0758-42bc-bf53-807c6b955315",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9fee7a98-86ea-4161-9f12-367622051ee3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
